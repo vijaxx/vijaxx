@@ -24,4 +24,4 @@ Each of these runs as scheduled, unattended jobs — not one-off scripts. A recu
 
 ---
 
-📫 Reach out via GitHub — open to full-stack, backend, and automation/AI-tooling roles.
+📫 [LinkedIn](https://www.linkedin.com/in/kondani-vijay-vardhan-b2729035a/) · open to full-stack, backend, and automation/AI-tooling roles.
