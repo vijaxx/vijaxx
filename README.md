@@ -49,13 +49,6 @@ Built to work end-to-end, with real test suites and measured results rather than
 
 ---
 
-#### Experience
-
-**Machine Learning Intern** — Synycs Enterprise, Hyderabad *(June – July 2025)*
-Acquired, cleaned, and validated customer datasets from multiple sources; evaluated model performance using precision, recall, F1 and ROC-AUC; analysed the drivers of customer churn and presented findings as recommendations supporting retention decisions.
-
----
-
 #### Tech
 
 `Python` · `Java` · `SQL` · `SQLite` / `H2` / `PostgreSQL` · `HTML/CSS/JS`
