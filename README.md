@@ -39,7 +39,7 @@ Built to work end-to-end, with real test suites and measured results rather than
 
 **[supermart-erp](https://github.com/vijaxx/supermart-erp)** — Java Servlets/JSP/JDBC MVC app: employee and inventory management, session-based auth with role separation, JOIN-based reporting. 66 tests plus live curl verification against the running server, including a SQL-injection payload attempted against the real login endpoint and confirmed rejected.
 
-**[library-management-system](https://github.com/vijaxx/library-management-system)** — Java Swing + JDBC desktop app: transactional book issue/return workflow, per-tier borrowing limits, overdue fine calculation. 51 tests, including a rollback test built around a JDBC proxy that fails mid-transaction to prove a partial issue never persists.
+**[library-management-system](https://github.com/vijaxx/library-management-system)** — Java Swing + JDBC desktop app: transactional book issue/return workflow, per-tier borrowing limits, overdue fine calculation. 52 tests, including a rollback test built around a JDBC proxy that fails mid-transaction to prove a partial issue never persists.
 
 **[reels-scheduler](https://github.com/vijaxx/reels-scheduler)** — Instagram Reels scheduling and publishing pipeline: SQLite-backed content queue, timezone-aware slot scheduling, content-hash duplicate prevention, dry-run-by-default publisher. 112 tests, including a full clone-and-rerun from a bare `git clone` with zero config to confirm it's genuinely reproducible, not just working in one workspace.
 
